@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\AdventOfCode2022\AdventOfCode2022\bin\Debug\netcoreapp3.1\AdventOfCode2022.exe
+C:\Users\admin\source\repos\AdventOfCode2022\AdventOfCode2022\bin\Debug\netcoreapp3.1\AdventOfCode2022.deps.json
+C:\Users\admin\source\repos\AdventOfCode2022\AdventOfCode2022\bin\Debug\netcoreapp3.1\AdventOfCode2022.runtimeconfig.json
+C:\Users\admin\source\repos\AdventOfCode2022\AdventOfCode2022\bin\Debug\netcoreapp3.1\AdventOfCode2022.runtimeconfig.dev.json
+C:\Users\admin\source\repos\AdventOfCode2022\AdventOfCode2022\bin\Debug\netcoreapp3.1\AdventOfCode2022.dll
+C:\Users\admin\source\repos\AdventOfCode2022\AdventOfCode2022\bin\Debug\netcoreapp3.1\AdventOfCode2022.pdb
+C:\Users\admin\source\repos\AdventOfCode2022\AdventOfCode2022\obj\Debug\netcoreapp3.1\AdventOfCode2022.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\AdventOfCode2022\AdventOfCode2022\obj\Debug\netcoreapp3.1\AdventOfCode2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\AdventOfCode2022\AdventOfCode2022\obj\Debug\netcoreapp3.1\AdventOfCode2022.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\AdventOfCode2022\AdventOfCode2022\obj\Debug\netcoreapp3.1\AdventOfCode2022.AssemblyInfo.cs
+C:\Users\admin\source\repos\AdventOfCode2022\AdventOfCode2022\obj\Debug\netcoreapp3.1\AdventOfCode2022.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AdventOfCode2022\AdventOfCode2022\obj\Debug\netcoreapp3.1\AdventOfCode2022.dll
+C:\Users\admin\source\repos\AdventOfCode2022\AdventOfCode2022\obj\Debug\netcoreapp3.1\AdventOfCode2022.pdb
+C:\Users\admin\source\repos\AdventOfCode2022\AdventOfCode2022\obj\Debug\netcoreapp3.1\AdventOfCode2022.genruntimeconfig.cache
